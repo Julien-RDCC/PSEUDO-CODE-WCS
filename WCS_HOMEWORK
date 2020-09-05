@@ -1,0 +1,11 @@
+BEGINNING  ALGORITHM my_pseudo_code
+
+PRINT "Veuillez donner un nombre, s'il vous plaît"
+READ N
+
+
+WHILE N != X FOR X FROM 0 TO INF
+  PRINT "Bienvenue chez les wilders!"
+END WHILE
+
+END ALGORITHM my_pseudo_code
